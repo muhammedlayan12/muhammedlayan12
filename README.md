@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning ... Back-end Development & Flutter
 - 💞️ I’m Seeking a Job as a Front-end Developer
-- 📫 How to reach me ... visit my portfolio  https://muhammedlayan12.github.io/Portfolio/
+- 📫 How to reach me ... visit my portfolio        https://layan-portfolio.vercel.app/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
